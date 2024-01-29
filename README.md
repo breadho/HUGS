@@ -14,8 +14,9 @@ The Large Legacy Treasury Program "The HST Legacy Survey of Galactic Globular Cl
 
 **데이터 소스**
 
-https://archive.stsci.edu/prepds/hugs/
-http://groups.dfa.unipd.it/ESPG/treasury.php
+- https://archive.stsci.edu/prepds/hugs/
+
+- http://groups.dfa.unipd.it/ESPG/treasury.php
 
 ---
 
