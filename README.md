@@ -1,10 +1,10 @@
 # HUGS for Breadho
 
+**요약** 
+
 The Large Legacy Treasury Program "The HST Legacy Survey of Galactic Globular Clusters: Shedding UV Light on Their Populations and Formation" (GO-13297, PI: G. Piotto, 131 orbits) 
 
-허블 우주 망원경을 이용하여 우리 은하의 구상성단을 조사하는 프로젝트인 HST UV Globular Cluster Survey의 데이터를 활용하는 사이드 프로젝트 
-
-**요약** 
+허블 우주 망원경을 이용하여 우리 은하의 구상성단을 조사한 프로젝트인 HST UV Globular Cluster Survey(HUGS)의 데이터를 활용하는 사이드 프로젝트 
 
 - WFC3/UVIS의 F275W, F336W, F438W의 fits 파일을 이용하여 lupton-RGB 함수를 통해 이미지화를 실시
 - photutils의 starfinder 함수를 이용, 각 이미지에서 별들을 찾고 magnitude를 계산
@@ -12,11 +12,16 @@ The Large Legacy Treasury Program "The HST Legacy Survey of Galactic Globular Cl
 - Piotto 연구팀에서 수행한 광도 측정 방법으로 얻은 데이터를 바탕으로 그린 CMD와 비교
 
 
+**데이터 소스**
+
+https://archive.stsci.edu/prepds/hugs/
+http://groups.dfa.unipd.it/ESPG/treasury.php
+
 ---
 
-**`대상 천체`**
+**대상 천체**
 
-Cluster	  |       RA  |        Dec. | (Observable in UJB)
+Cluster	  |       RA  |        Dec. | 위도 37.5 위치에서 관측 가능여부|
 :----------|-----------:|-------------:|:----------------:|
 NGC 0104|	6.023792 |	-72.081306| X |
 NGC 0288|	13.188500|	-26.582611| O |
