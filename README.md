@@ -9,11 +9,11 @@ The Large Legacy Treasury Program "The HST Legacy Survey of Galactic Globular Cl
 **수행 내역 요약**
 
 - WFC3/UVIS의 F275W, F336W, F438W의 fits 파일을 이용하여 lupton-RGB 함수를 통해 이미지화를 실시
-- 
+  
 - photutils의 starfinder 함수를 이용, 각 이미지에서 별들을 찾고 magnitude를 계산
-- 
+  
 - F336W 필터 이미지에서 계산된 magnitude와 F275W 필터 이미지에서 계산된 magnitude의 차이를 계산하여 색등급도(CMD) 생성
-- 
+  
 - Piotto 연구팀에서 수행한 광도 측정 방법으로 얻은 데이터를 바탕으로 그린 CMD와 비교
 
 
