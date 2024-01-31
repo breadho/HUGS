@@ -93,5 +93,9 @@ NGC 7099|	325.092167|	-23.179861| O |
 
 ----
 
+**관측장비**
+
+- 허블우주망원경(Hubble Space Telescope)
+
 ![허블이미지](image/Hubble1.jpeg)
 ![허블이미지2](image/HubbleFOV.jpeg)
