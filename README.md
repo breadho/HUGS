@@ -1,4 +1,4 @@
-# HUGS for Breadho
+# HUGS proj.
 
 **사이드 프로젝트 소개** 
 
