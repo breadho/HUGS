@@ -93,5 +93,5 @@ NGC 7099|	325.092167|	-23.179861| O |
 
 ----
 
-![허블이미지](Hubble1.jpeg)
-![허블이미지2](HubbleFOV.jpeg)
+![허블이미지](image/Hubble1.jpeg)
+![허블이미지2](image/HubbleFOV.jpeg)
