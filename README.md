@@ -6,6 +6,9 @@ The Large Legacy Treasury Program "The HST Legacy Survey of Galactic Globular Cl
 
 허블 우주 망원경을 이용하여 우리 은하의 구상성단을 조사한 프로젝트인 HST UV Globular Cluster Survey(HUGS)의 데이터를 활용하는 사이드 프로젝트 
 
+![HUGS Mosaic](image/HUGS_mosaic.png)
+
+
 **수행 내역 요약**
 
 - WFC3/UVIS의 F275W, F336W, F438W의 fits 파일을 이용하여 lupton-RGB 함수를 통해 이미지화를 실시
