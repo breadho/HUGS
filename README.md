@@ -97,6 +97,6 @@ NGC 7099|	325.092167|	-23.179861| O |
 - 허블우주망원경(Hubble Space Telescope)
 
 
-<img src="image/Hubble1.jpeg" width = "400" height="400">
+<img src="image/Hubble1.jpeg" width = "600" height="400">
 
-<img src="image/HubbleFOV.jpeg" width = "400" height="400">
+<img src="image/HubbleFOV.jpeg" width = "600" height="400">
