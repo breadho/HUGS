@@ -6,8 +6,7 @@ The Large Legacy Treasury Program "The HST Legacy Survey of Galactic Globular Cl
 
 허블 우주 망원경을 이용하여 우리 은하의 구상성단을 조사한 프로젝트인 HST UV Globular Cluster Survey(HUGS)의 데이터를 활용하는 사이드 프로젝트 
 
-![HUGS Mosaic](image/HUGS_mosaic.png)
-
+<img src="image/HUGS_mosaic.png" width = "400" height="400">
 
 **수행 내역 요약**
 
@@ -97,5 +96,7 @@ NGC 7099|	325.092167|	-23.179861| O |
 
 - 허블우주망원경(Hubble Space Telescope)
 
-![허블이미지](image/Hubble1.jpeg)
-![허블이미지2](image/HubbleFOV.jpeg)
+
+<img src="image/Hubble1.jpeg" width = "400" height="400">
+
+<img src="image/HubbleFOV.jpeg" width = "400" height="400">
